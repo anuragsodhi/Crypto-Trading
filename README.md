@@ -1,5 +1,5 @@
-# Crypto_trading
+# Crypto-trading
 
-Downloading BTC/ETH orderbook data from GDAX using their API.
+1. bitcoin.py: Downloading BTC/ETH orderbook data from GDAX using their API.
 
-For building a model later on..
+Downloading data to build a ML model later on..
